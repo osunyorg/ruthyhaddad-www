@@ -3,6 +3,8 @@ theme:
   - osuny-plugin-centered-footer
 _merge: deep
 params:
+  breadcrumb:
+    position: none
   summary:
     position: hero
   search:
