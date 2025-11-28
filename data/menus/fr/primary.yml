@@ -1,25 +1,18 @@
 ---
 title: Menu principal
 items:
-- title: Projets
-  target: "/projets/"
+- title: Biographie
+  target: "/biographie/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/biographie"
+  file: content/fr/pages/biographie/_index.html
+- title: Portfolio
+  target: "/portfolio/"
   kind: page
   new_tab: false
   children: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Personnes
-  target: "/personnes/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
 
