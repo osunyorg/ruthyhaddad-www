@@ -2,13 +2,19 @@
 
 fr:
   title: >-
-    www
+    Ruthy Haddad
   contentDir: content/fr
   languageCode: fr
   languageName: Français
   buildFuture: true
   params:
     contact_details:
+      social_networks:
+        instagram:
+          label: >-
+            ruthy_haddad
+          value: >-
+            https://instagram.com/ruthy_haddad
 
   taxonomies:
     administrator: administrators
